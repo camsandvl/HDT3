@@ -1,3 +1,7 @@
+/**
+ * Javier Castillo #24014
+ * Camila Sandoval #24358
+ */
 public class MergeSort {
 
     public void sort(int[] array) {
